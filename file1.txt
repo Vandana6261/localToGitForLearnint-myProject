@@ -1,3 +1,4 @@
 Hello, I am file 1 !
 Edited 1st time
 Edited 2nd time
+Changes from branch2
